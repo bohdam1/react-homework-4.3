@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-homework-4.3/static/css/main.5f48fcf2.css",
+    "main.js": "/react-homework-4.3/static/js/main.3d5ed457.js",
+    "index.html": "/react-homework-4.3/index.html",
+    "main.5f48fcf2.css.map": "/react-homework-4.3/static/css/main.5f48fcf2.css.map",
+    "main.3d5ed457.js.map": "/react-homework-4.3/static/js/main.3d5ed457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f48fcf2.css",
+    "static/js/main.3d5ed457.js"
+  ]
+}
