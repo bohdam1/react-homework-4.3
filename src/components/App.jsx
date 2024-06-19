@@ -13,6 +13,7 @@ export const App = () => {
       .catch(error => console.error("Error fetching images:", error));
   }, []);
 
+  
   const handleFormSearch = (name) => {
     setName(name);
   }
